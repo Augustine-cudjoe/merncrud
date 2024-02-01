@@ -2,7 +2,7 @@
 
 
 <video width="320" height="240" autoplay>
-  <source src="todolist-app.mov" type="video">
+  <source src="app" type="video">
   this is not playing
 </video>
 
