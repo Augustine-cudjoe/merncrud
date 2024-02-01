@@ -1,14 +1,16 @@
 <h1>Todo List</h1>
 
+
+<video width="320" height="240" autoplay>
+  <source src="todolist-app.mov" type="video">
+  this is not playing
+</video>
+
 <img src="todo.png" />
 <img src="todo1.png" />
 <img src="todo2.png" />
 <img src="todo3.png" />
 
-<video width="320" height="240" autoplay>
-  <source src="todolist-app.mov" type="video/mov">
-  this is not playing
-</video>
 
 
 # Todo List 
