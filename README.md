@@ -1,10 +1,10 @@
 <h1>Todo List</h1>
-< div>
+
 <img src="todo.png" width="400px" height="400px"/>
 <img src="todo1.png" width="400px" height="400px"/>
 <img src="todo2.png" width="400px" height="400px"/>
 <img src="todo3.png" width="400px" height="400px"/>
-</div>
+
 
 # Todo List 
 This is a Todo List app built with reactJS,react-Bootstrap, Bootstrap Icons, and CSS. It contains the add Todo button, delete button, and edit button.
