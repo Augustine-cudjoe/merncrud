@@ -1,10 +1,7 @@
 <h1>Todo List</h1>
 
 
-<video width="320" height="240" autoplay>
-  <source src="app" type="video">
-  this is not playing
-</video>
+
 
 <img src="todo.png" />
 <img src="todo1.png" />
