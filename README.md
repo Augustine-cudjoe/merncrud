@@ -1,9 +1,9 @@
 <h1>Todo List</h1>
 
-<img src="todo.png" width="400px" height="400px"/>
-<img src="todo1.png" width="400px" height="400px"/>
-<img src="todo2.png" width="400px" height="400px"/>
-<img src="todo3.png" width="400px" height="400px"/>
+<img src="todo.png" />
+<img src="todo1.png" />
+<img src="todo2.png" />
+<img src="todo3.png" />
 
 
 # Todo List 
