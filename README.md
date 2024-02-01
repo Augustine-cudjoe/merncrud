@@ -5,6 +5,11 @@
 <img src="todo2.png" />
 <img src="todo3.png" />
 
+<video width="320" height="240" autoplay>
+  <source src="todolist-app.mov" type="video/mov">
+  
+</video>
+
 
 # Todo List 
 This is a Todo List app built with reactJS,react-Bootstrap, Bootstrap Icons, and CSS. It contains the add Todo button, delete button, and edit button.
